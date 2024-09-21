@@ -1,0 +1,21 @@
+### GET request to example server
+GET https://crudcrud.com/api/b79a3555f19e456a8d40b172508a5492/unicorn/66ee7356fe837603e816ca38
+Accept: application/json
+
+###
+
+DELETE https://crudcrud.com/api/b79a3555f19e456a8d40b172508a5492/unicorn/66ee74e5fe837603e816ca3d
+Accept: application/json
+
+###
+
+POST https://crudcrud.com/api/b79a3555f19e456a8d40b172508a5492/unicorn
+Content-Type: application/json
+
+{
+  "name": "Helene",
+  "color": "pink"
+}
+
+###
+

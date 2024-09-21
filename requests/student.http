@@ -1,0 +1,18 @@
+DELETE https://crudcrud.com/api/548d1951c84c4b56950f01b9616f6b5c/student/66e99087fe837603e816c566
+Accept: application/json
+
+###
+
+GET https://crudcrud.com/api/548d1951c84c4b56950f01b9616f6b5c/student/66e99087fe837603e816c566
+Accept: application/json
+
+###
+POST https://crudcrud.com/api/548d1951c84c4b56950f01b9616f6b5c/student
+Content-Type: application/json
+
+{
+  "name": "Саша Петров",
+  "grade": 2
+
+}
+###
